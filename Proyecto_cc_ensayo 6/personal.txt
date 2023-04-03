@@ -1,0 +1,2 @@
+13243	Jose 	Gonzales	Burguer	24-09-2021	Vendedor	Burguer
+3243143	Juan 	Mora	Camisas	24-09-2022	Vendedor	Camisas

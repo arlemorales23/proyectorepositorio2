@@ -1,0 +1,7 @@
+Axel	Dereck	Axel1	1234	axel@gmail.com	Gerente CC
+Arle	Morales	arle2	1234	asd@hotmail.com	Administrador Local
+Luis	Rodriguez	luis3	1234	asd@asd	Cliente
+Alberto	Perez	perez1	1234	asd@asd	Administrador Local
+Carlos	Ramirez	carlos1	1234	asd@asd	Vendedor
+camilo	castaño	cami1	1234	asd@asd	Cliente
+Mauricio	Tabares	mau1	1234	asd@gmail	Administrador Local

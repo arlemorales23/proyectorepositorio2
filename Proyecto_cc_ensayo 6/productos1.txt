@@ -1,0 +1,4 @@
+23	pan	bimbo	4	1000	4000	Burguer
+65	zapatillas	azules	3	3000	9000	Tenis
+25	zapatos	deportivos	1	5000	5000	Tenis
+13	Camisa	verde	2	35000	70000	Camisas

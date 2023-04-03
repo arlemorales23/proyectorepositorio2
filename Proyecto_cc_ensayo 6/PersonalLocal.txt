@@ -1,0 +1,2 @@
+Juan	Morales	mora1	1123	morales@gmailc.om	Vendedor	Burguer	arle2
+Julia	ceñada	rojas1	julia	julia@gmail.com	Vendedor	Tenis	perez1

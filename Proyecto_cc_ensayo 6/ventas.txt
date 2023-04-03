@@ -1,0 +1,3 @@
+11.15.2022, 12:06	13	Camisa	verde	2	35000	70000	camilo castaño	Camisas
+11.15.2022, 12:12	65	zapatillas	azules	3	3000	9000	camilo castaño	Tenis
+11.16.2022, 09:27	23	pan	bimbo	4	1000	4000	Luis Rodriguez	Burguer

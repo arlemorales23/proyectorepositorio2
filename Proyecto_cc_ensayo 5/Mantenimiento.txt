@@ -1,0 +1,3 @@
+Burguer	daño baño	Baja	Atendida
+Burguer	daño piso	Media	Pendiente
+Tenis	daño techo	Baja	Pendiente

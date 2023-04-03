@@ -1,0 +1,8 @@
+11.10.2022, 01:07	1232424	tenis	rojos	3	20000	20000	Luis Rodriguez
+11.10.2022, 01:07	1234556	Balon Futbol	Blanco	1	60000	60000	Luis Rodriguez
+11.10.2022, 01:21	1232424	tenis	rojos	3	20000	20000	Luis Rodriguez
+11.10.2022, 01:21	1234556	Balon Futbol	Blanco	1	60000	60000	Luis Rodriguez
+11.10.2022, 01:22	143542	Camiseta	Azul	2	30000	30000	camilo rodriguez
+11.10.2022, 01:33	1234556	Balon Futbol	Blanco	1	60000	60000	camilo rodriguez
+11.10.2022, 01:33	1232424	tenis	rojos	3	20000	20000	camilo rodriguez
+11.14.2022, 01:06	65	zapatillas	azules	3	3000	9000	camilo rodriguez

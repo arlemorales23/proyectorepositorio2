@@ -1,0 +1,3 @@
+1097051224	Axel Dereck	Gutierrez	Castellanos	14-09-2002	Modelo	123456	18	14-12-2021	vendedor
+89005215	Arle	Morales	ortiz	27-08-1982	carrera 22 10-34	3137082781	llllllll	27-10-2022	administrador
+89256555	pepe	perez	Castellanos	20-03-2000	granada	3137098283	18	10-02-2020	Vendedor
